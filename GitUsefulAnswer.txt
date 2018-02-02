@@ -1,0 +1,1 @@
+Git can be useful because it allows people to work together easier and puts your code in one place so you can easily access it from different locations without tedious copying.
